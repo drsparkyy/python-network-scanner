@@ -1,3 +1,12 @@
+# Generated network scan reports
+scan_*.txt
+
+# Local environment files
+.env
+.venv/
+
+-------------------------------------------------------------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
