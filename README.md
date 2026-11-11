@@ -27,7 +27,7 @@ Created to help me learn python and some basic computer networking.
 2. Open a terminal in the project folder.
 3. Run the scanner using:
 
-   `py network_scanner.py`
+   `py Network-Scanner.py`
 
 4. Enter the network you want to scan, such as `192.168.1.0/24`.
 5. Select your preferred scan type.
